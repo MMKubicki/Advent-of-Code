@@ -3,5 +3,6 @@ name = "common"
 version = "0.1.0"
 authors = ["Michael Mario Kubicki <contact@michael-kubicki.de>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
