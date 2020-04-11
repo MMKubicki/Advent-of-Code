@@ -1,3 +1,5 @@
+pub mod point;
+
 use std::{fs, io, path};
 
 /// Read file content, iterate over every line, apply given Fn(&str) -> T and return collected Results
